@@ -14,6 +14,5 @@
 
 ## 团队介绍
 
-Script nodes are logic objects. You can add a script node to the scene or a game object, for extending it with custom data and behavior.
+随便写写吧
 
-This project includes the [basic script nodes](https://github.com/PhaserEditor2D/script-nodes-basic-js) in the `src/script-nodes-basic/` folder. You can add your own script nodes in the `src/script-nodes/` folder.
